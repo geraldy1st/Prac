@@ -1,3 +1,5 @@
+puts "test"
+
 # mon_chiffre = 15
 #
 # def augmenter(nbr)
