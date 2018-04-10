@@ -10,7 +10,7 @@ def add_num
   while tour <= nombre
     if tour % 3 == 0 || tour % 5 == 0
       stocker = stocker + tour
-      print "#{stocker}" + " + "
+      puts "#{stocker}" + " + "
     end
     tour += 1
   end
